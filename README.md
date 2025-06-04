@@ -18,9 +18,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Item 1: Set up a Virtual Machine in Azure
-- Item 2: Log Into RemoteDestop with Azures VM IP Address
-- Item 3: Install The osTicket Requirments
-- Item 4: osTicket-Installation Successful
+- Item 2: Log into Remote Desktop with Azure's VM IP Address
+- Item 3: Install the osTicket Requirements
+- Item 4: osTicket Installation Successful
 
 <h2>Installation Steps</h2>
 

@@ -36,7 +36,7 @@ Now, we set up a virtual Machine in Azure with Windows 10.4 VCPUs, assigning a N
 <img width="847" alt="2  Logging into RD with windows 10 VM IP Address Created" src="https://github.com/user-attachments/assets/d5ff2710-6a52-4a7d-8a1c-19cb46b22fb3" />
 </p>
 <p>
-Log into Remote Desktop with the IP address from our Virtual Machine Created in Azure. And once logged in, we will download the osTicket installation file and Unzip it onto our desktop.
+After logging into Remote Desktop with the IP address from our Virtual Machine Created in Azure, we will download the osTicket installation file and unzip it onto our desktop.
 </p>
 <br />
 

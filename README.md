@@ -24,26 +24,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p> Windows 10 Virtual Machine Created in Azure
-<img width="518" alt="1  Azure Windows 10 Virtual Machine Created" src="https://github.com/user-attachments/assets/3278697a-8cfb-46ae-a74a-b9a243dde2c8" />
-</p>
-<p>
-Now, we set up a virtual Machine in Azure with Windows 10.4 VCPUs, assigning a Name, Username, and password. After this has been created, we will log into the VM using Remote Desktop.
-</p>
+<p align="center">
+Create Windows 10 Virtual Machine in Azure: <br/>
+<img width="518" alt="1 src="https://github.com/user-attachments/assets/3278697a-8cfb-46ae-a74a-b9a243dde2c8"/>
+<br />
+<br />
+Remote Desktop Log in: <br/>
+<img width="518" alt="2 src="https://github.com/user-attachments/assets/d5ff2710-6a52-4a7d-8a1c-19cb46b22fb3"/>
+<br />
+<br />
+Download osTicket-Installation-File.Zip/ Unzip onto Desktop: <br/>
+<img width="518" alt="3 src="https://github.com/user-attachments/assets/3abe0e91-2c63-4de2-9c80-586cb315c85c"/>
+<br />
 <br />
 
-<p> Remote Desktop Log in
-<img width="847" alt="2  Logging into RD with windows 10 VM IP Address Created" src="https://github.com/user-attachments/assets/d5ff2710-6a52-4a7d-8a1c-19cb46b22fb3" />
 </p>
-<p>
-After logging into Remote Desktop with the IP address from our Virtual Machine Created in Azure, we will download the osTicket installation file and unzip it onto our desktop.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />

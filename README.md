@@ -5,7 +5,7 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 
 <h2> Project Summary</h2>
- The project consists of a trusted open-source support Ticketing system designed to help manage, organize, and respond to customer service. By Using Azures VM/IP Address we created we will be able to use Remote Desktop to install the "osTicket-installation files", folder which dowloades and installs all the requirements to succesfully install osTicket.
+ The project consists of a trusted open-source support Ticketing system designed to help manage, organize, and respond to customer service. By using Azure's VM/IP Address we created we will be able to use Remote Desktop to install the "osTicket-installation files", a folder which downloads and installs all the requirements to successfully install osTicket.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)

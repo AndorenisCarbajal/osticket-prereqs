@@ -26,16 +26,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p align="center">
 Create Windows 10 Virtual Machine in Azure: <br/>
-<img width="518" alt="1 src="https://github.com/user-attachments/assets/3278697a-8cfb-46ae-a74a-b9a243dde2c8"/>
+<img width="500" alt="1  Azure Windows 10 Virtual Machine Created" src="https://github.com/user-attachments/assets/01609dcd-c82f-4be4-8151-99ba8a3edb89" />
 <br />
 <br />
 Remote Desktop Log in: <br/>
-<img width="518" alt="2 src="https://github.com/user-attachments/assets/d5ff2710-6a52-4a7d-8a1c-19cb46b22fb3"/>
+<img width="500" alt="2  Logging into RD with Windows 10 VM IP Address Created" src="https://github.com/user-attachments/assets/98fb653a-240a-4674-b537-f2bda3ba4735" />
 <br />
 <br />
 Download osTicket-Installation-File.Zip/ Unzip onto Desktop: <br/>
-<img width="518" alt="3 src="https://github.com/user-attachments/assets/3abe0e91-2c63-4de2-9c80-586cb315c85c"/>
+<img width="500" alt="3  osTicket-Installation-file unziped onto desktop" src="https://github.com/user-attachments/assets/672387d4-ea6f-41b7-94e5-1e89ed31c9d7" />
 <br />
 <br />
+Enabling ISS in Windows with CGI: <br/>
+<img width="500" alt="5  End result with ISS Enabled with CGI" src="https://github.com/user-attachments/assets/dc65a03b-223a-4165-a6fc-f538a18e1995" />
+<br />
+<br />
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS : <br/>
+<img width="500" alt="6  Installing PHP Manager for ISS" src="https://github.com/user-attachments/assets/64f34bff-24da-4e2e-bd1c-368da18ee6e7" />
+<br />
+<br />
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8: <br/>
+<img width="500" alt="7  Extracted PHP 7-3-8 into the C-PHP Folder" src="https://github.com/user-attachments/assets/3c739c7e-fcae-44da-a3e5-9cea41d40bcc" />
 
 </p>
